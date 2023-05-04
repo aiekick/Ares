@@ -78,3 +78,7 @@
 	path = 3rdparty/glslang
 	url = https://github.com/KhronosGroup/glslang.git
 	branch = main
+[submodule "3rdparty/VulkanHPP"]
+	path = 3rdparty/VulkanHPP
+	url = https://github.com/KhronosGroup/Vulkan-Hpp.git
+	branch = main
