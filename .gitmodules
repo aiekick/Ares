@@ -1,0 +1,80 @@
+[submodule "3rdparty/glfw"]
+	path = 3rdparty/glfw
+	url = https://github.com/glfw/glfw.git
+	branch = master
+[submodule "3rdparty/tinyxml2"]
+	path = 3rdparty/tinyxml2
+	url = https://github.com/leethomason/tinyxml2.git
+	branch = master
+[submodule "3rdparty/efsw"]
+	path = 3rdparty/efsw
+	url = https://github.com/aiekick/efsw.git
+	branch = master
+[submodule "3rdparty/glm"]
+	path = 3rdparty/glm
+	url = https://github.com/g-truc/glm.git
+	branch = master
+[submodule "3rdparty/stb"]
+	path = 3rdparty/stb
+	url = https://github.com/nothings/stb.git
+	branch = master
+[submodule "3rdparty/tracy"]
+	path = 3rdparty/tracy
+	url = https://github.com/wolfpld/tracy.git
+	branch = master
+[submodule "3rdparty/ctools"]
+	path = 3rdparty/ctools
+	url = https://github.com/aiekick/cTools.git
+	branch = master
+[submodule "3rdparty/ImGuiFileDialog"]
+	path = 3rdparty/ImGuiFileDialog
+	url = https://github.com/aiekick/ImGuiFileDialog.git
+	branch = Lib_Only
+[submodule "3rdparty/imgui"]
+	path = 3rdparty/imgui
+	url = https://github.com/ocornut/imgui.git
+	branch = docking
+[submodule "3rdparty/freetype2"]
+	path = 3rdparty/freetype2
+	url = https://github.com/freetype/freetype2.git
+	branch = master
+[submodule "3rdparty/lodepng"]
+	path = 3rdparty/lodepng
+	url = https://github.com/lvandeve/lodepng.git
+	branch = master
+[submodule "3rdparty/alphanum"]
+	path = 3rdparty/alphanum
+	url = https://github.com/aiekick/alphanum.git
+	branch = main
+[submodule "3rdparty/cpp_ipc"]
+	path = 3rdparty/cpp_ipc
+	url = https://github.com/aiekick/cpp-ipc.git
+	branch = master
+[submodule "3rdparty/ImGuizmo"]
+	path = 3rdparty/ImGuizmo
+	url = https://github.com/aiekick/ImGuizmo
+	branch = master
+[submodule "3rdparty/zlib"]
+	path = 3rdparty/zlib
+	url = https://github.com/madler/zlib.git
+	branch = master
+[submodule "3rdparty/BuildInc"]
+	path = 3rdparty/BuildInc
+	url = https://github.com/aiekick/buildinc.git
+	branch = master
+[submodule "3rdparty/renderdoc"]
+	path = 3rdparty/renderdoc
+	url = https://github.com/baldurk/renderdoc.git
+	branch = v1.x
+[submodule "3rdparty/ImNodes"]
+	path = 3rdparty/ImNodes
+	url = https://github.com/Nelarius/imnodes.git
+	branch = master
+[submodule "3rdparty/imgui_node_editor"]
+	path = 3rdparty/imgui_node_editor
+	url = https://github.com/aiekick/imgui-node-editor.git
+	branch = master
+[submodule "3rdparty/glslang"]
+	path = 3rdparty/glslang
+	url = https://github.com/KhronosGroup/glslang.git
+	branch = main
