@@ -37,6 +37,7 @@ include(cmake/tinyxml2.cmake)
 include(cmake/ctools.cmake)
 include(cmake/utypes.cmake)
 include(cmake/fonticons.cmake)
+include(cmake/vkprofiler.cmake)
 include(cmake/vkframework.cmake)
 
 ## contrib imgui

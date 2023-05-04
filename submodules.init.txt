@@ -10,7 +10,7 @@ git submodule add --force -b "Lib_Only" https://github.com/aiekick/ImGuiFileDial
 git submodule add --force -b "docking" https://github.com/ocornut/imgui.git 3rdparty/imgui
 git submodule add --force -b "master" https://github.com/freetype/freetype2.git 3rdparty/freetype2
 git submodule add --force -b "master" https://github.com/lvandeve/lodepng.git 3rdparty/lodepng
-git submodule add --force -b "master" https://github.com/KhronosGroup/Vulkan-Hpp.git 3rdparty/VulkanHPP
+git submodule add --force -b "main" https://github.com/KhronosGroup/Vulkan-Hpp.git 3rdparty/VulkanHPP
 git submodule add --force -b "main" https://github.com/aiekick/alphanum.git 3rdparty/alphanum
 git submodule add --force -b "master" https://github.com/aiekick/cpp-ipc.git 3rdparty/cpp_ipc
 git submodule add --force -b "master" https://github.com/aiekick/ImGuizmo 3rdparty/ImGuizmo
